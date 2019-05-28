@@ -1,0 +1,13 @@
+[
+    {
+        "game_title": "Quake 4",
+        "mod_title": "Quake 4 Gameplay Overhaul",
+        "is_pk4": true,
+        "sources": ["src"],
+        "base_path": "D:\\SteamLibrary\\steamapps\\common\\Quake 4",
+        "game": "q4base",
+        "zip_name": "q4overhaul",
+        "pk4_name": "zzzq4overhaul",
+        "should_deploy": true
+    }
+]
